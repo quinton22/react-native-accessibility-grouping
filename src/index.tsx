@@ -6,7 +6,7 @@ type AccessibilityGroupingProps = {
 };
 
 export const AccessibilityGroupingViewManager = requireNativeComponent<AccessibilityGroupingProps>(
-'AccessibilityGroupingView'
+  'AccessibilityGroupingView'
 );
 
 export default AccessibilityGroupingViewManager;
